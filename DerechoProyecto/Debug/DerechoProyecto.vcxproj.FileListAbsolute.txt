@@ -1,0 +1,4 @@
+C:\Users\derek\source\repos\DerechoProyecto\DerechoProyecto\Debug\DerechoProyecto.vcxproj.AssemblyReference.cache
+C:\Users\derek\source\repos\DerechoProyecto\DerechoProyecto\Debug\DerechoProyecto.MyForm1.resources
+C:\Users\derek\source\repos\DerechoProyecto\DerechoProyecto\Debug\DerechoProyecto.vcxproj.GenerateResource.cache
+C:\Users\derek\source\repos\DerechoProyecto\DerechoProyecto\Debug\DerechoProyecto.MyForm2.resources
